@@ -1,0 +1,8 @@
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Calculator\obj\Debug\Calculator.pdb
